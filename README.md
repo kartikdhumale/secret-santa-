@@ -1,27 +1,27 @@
 
 
-# 🎁 Secret Santa Game
+#  Secret Santa Game
 
-## 📌 Description
+##  Description
 This project automates Secret Santa assignment for employees using Java.
 
-## ✅ Features
+##  Features
 - No self assignment
 - No previous year repeat
 - Unique assignment for each employee
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Java 8
 - Maven
 
-## ▶️ How to Run
+##  How to Run
 1. Add CSV files in resources folder
 2. Run MainApp.java
 3. Output generated in output.csv
 
-## 📂 Input Files
+##  Input Files
 - employees.csv
 - last_year.csv
 
-## 📤 Output
+##  Output
 - output.csv with valid assignments
